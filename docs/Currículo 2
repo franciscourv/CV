@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>CV - Francisco das Chagas da Silva Sousa</title>
+    <meta name="description" content="Currículo de Francisco das Chagas da Silva Sousa, Técnico em Eletroeletrônica e Caldeireiro, especialista em eletricidade e automação industrial">
+    <meta name="keywords" content="currículo eletricista, técnico em automação, automação industrial, serviços de eletricidade">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        :root {
+            --primary-bg: #e1f7d3;
+            --header-bg: #cdebf7;
+            --nav-bg: #cafa8a;
+            --section-bg: #f0f8ff;
+            --footer-bg: #008cff;
+            --border-color: #333;
+            --spacing: 0.5rem;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            color: #333;
+        }
+
+        main {
+            background-color: var(--primary-bg);
+            border: 2px solid var(--border-color);
+            padding: var(--spacing);
+            margin: var(--spacing);
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        header {
+            background-color: var(--header-bg);
+            border: 2px solid var(--border-color);
+            padding: var(--spacing);
+            margin: var(--spacing);
+        }
+
+        nav {
+            background-color: var(--nav-bg);
+            border: 2px solid #f80;
+            padding: var(--spacing);
+            margin: var(--spacing);
+        }
+
+        section {
+            background-color: var(--section-bg);
+            border: 2px solid #fa8072;
+            padding: var(--spacing);
+            margin: var(--spacing);
+        }
+
+        footer {
+            background-color: var(--footer-bg);
+            border: 2px solid #006400;
+            padding: var(--spacing);
+            margin: var(--spacing);
+            text-align: center;
+        }
+
+        address {
+            background-color: #b0e0e6;
+            border: 2px solid #ff0000;
+            padding: var(--spacing);
+            margin: var(--spacing);
+            font-style: normal;
+        }
+
+        img {
+            border: 2px solid var(--border-color);
+            max-width: 150px;
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 1rem 0;
+        }
+
+        h1, h2, h3 {
+            color: #222;
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            main, header, nav, section, footer, address {
+                margin: 0.25rem;
+                padding: 0.25rem;
+            }
+
+            img {
+                max-width: 100px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav aria-label="Menu de acessibilidade">
+            <h2>Menu de Acessibilidade</h2>
+            <ul>
+                <li><a href="#conteudo">Ir para o conteúdo principal</a></li>
+                <li><a href="#navegacao">Ir para o menu principal</a></li>
+                <li><a href="#rodape">Ir para contatos</a></li>
+            </ul>
+        </nav>
+        <nav id="navegacao" aria-label="Links sociais">
+            <ul>
+                <li><a href="https://www.linkedin.com/in/francisco-das-chagas-silva-sousa-a91387152/">LinkedIn</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="conteudo">
+        <h1>Currículo - Francisco das Chagas da Silva Sousa</h1>
+        <h2>Técnico em Eletroeletrônica e Caldeireiro</h2>
+        <img src="./foto-perfil.jpg" alt="Foto de perfil de Francisco das Chagas da Silva Sousa">
+
+        <section>
+            <h3>Formação Acadêmica</h3>
+            <ul>
+                <li><strong>Janeiro 2009</strong> - Técnico em Eletroeletrônica - Colégio Polivalente</li>
+                <li><strong>Dezembro 2010</strong> - Técnico em Eletromecânica - SENAI</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Especializações</h3>
+            <ul>
+                <li><strong>Julho 2003</strong> - Solda - SENAI</li>
+                <li><strong>Outubro 2004</strong> - Comandos Hidráulicos - SENAI</li>
+                <li><strong>Novembro 2018</strong> - Programador de CLP - CLP Fácil</li>
+                <li><strong>Novembro 2021</strong> - Excel Básico ao Avançado (Macros e VBA) - Udemy</li>
+                <li><strong>2022 - Atual</strong> - Programador Web (HTML5, CSS, JS) - Udemy</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Experiência Profissional</h3>
+            <article>
+                <p><strong>08/2022 - Atual</strong> - Técnico Eletricista - AMBEV</p>
+                <ul>
+                    <li>Operação de máquinas de envase.</li>
+                    <li>Manutenção corretiva elétrica e eletroeletrônica, incluindo inversores de frequência (Rockwell, ABB, Weg, Siemens, SEW) e PLCs (Rockwell, Siemens, ABB).</li>
+                    <li>Análise de anomalias em redes industriais e manutenção de instrumentos de medição (PIT, PT100, sensores indutivos, fotoelétricos, sondas).</li>
+                    <li>Instalação e manutenção de painéis elétricos, partidas de motores, e redes industriais.</li>
+                    <li>Utilização do sistema SAP para manutenção e gestão de materiais.</li>
+                    <li>Leitura e interpretação de desenhos técnicos, elaboração de procedimentos operacionais, e execução de manutenções preditivas e programadas.</li>
+                </ul>
+            </article>
+            <article>
+                <p><strong>2016 - 2022</strong> - Técnico Eletricista - Heineken</p>
+                <ul>
+                    <li>Atividades similares às desempenhadas na AMBEV, com foco em manutenção elétrica, eletroeletrônica, e automação industrial.</li>
+                </ul>
+            </article>
+            <article>
+                <p><strong>2007 - 2016</strong> - Técnico em Eletroeletrônica - Vale</p>
+                <ul>
+                    <li>Manutenção elétrica em equipamentos de pátios de estocagem (transportadores, recuperadoras, empilhadeiras).</li>
+                    <li>Supervisão de serviços de manutenção elétrica e eletrônica de terceiros.</li>
+                    <li>Manutenção de redes industriais e instrumentos de medição.</li>
+                </ul>
+            </article>
+            <article>
+                <p><strong>1994 - 2007</strong> - Caldeireiro - Itapagé Celulose e Papel S/A</p>
+                <ul>
+                    <li>Fabricação e montagem de peças metálicas, soldas elétricas, e tubulações industriais.</li>
+                    <li>Coordenação de equipes terceirizadas e interpretação de desenhos técnicos.</li>
+                </ul>
+            </article>
+        </section>
+
+        <section>
+            <h3>Registro Profissional</h3>
+            <ul>
+                <li>Técnico em Eletroeletrônica</li>
+                <li>Técnico em Eletromecânica</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Principais Habilidades</h3>
+            <ul>
+                <li>Comandos elétricos e automação industrial</li>
+                <li>Comandos hidráulicos, eletrohidráulicos, pneumáticos e eletropneumáticos</li>
+                <li>Sistemas de lubrificação centralizada</li>
+                <li>Soldagem (eletrodo revestido, MIG, TIG, oxigênio)</li>
+                <li>Caldeiraria e montagem industrial</li>
+                <li>Operação e processos de envasamento de bebidas e alimentos</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer id="rodape">
+        <address>
+            <a href="mailto:franciscourv70@gmail.com">franciscourv70@gmail.com</a><br>
+            <a href="tel:+5594984107289">+55 94 98410-7289</a> | 
+            <a href="tel:+5586988349699">+55 86 98834-9699</a> | 
+            <a href="tel:+5586988336552">+55 86 98833-6552</a>
+        </address>
+    </footer>
+</body>
+</html>
